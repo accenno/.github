@@ -1,20 +1,15 @@
-<a href="https://accenno.com"><img src="./hero.svg" alt="Lost in an app? Accenno shows you the way. Ask out loud in any app. It points to the exact button, tells you the next step, or does it for you." width="100%"></a>
+<a href="https://accenno.com"><img src="./hero.svg" alt="Lost on your computer? Accenno shows you the way. Accenno lives on your Mac. Ask it anything, anytime. It points to the exact spot, or does it for you." width="100%"></a>
 
 <p align="center">
   <a href="https://accenno.com/download/Accenno-0.3.0-arm64.dmg"><img src="./btn-download.svg" height="46" alt="Download for Mac"></a>
   <a href="https://accenno.com"><img src="./btn-site.svg" height="46" alt="accenno.com"></a>
   <a href="https://accenno.com/guide"><img src="./btn-guide.svg" height="46" alt="Install guide"></a>
-  <a href="https://accenno.com/brand"><img src="./btn-brand.svg" height="46" alt="Brand assets"></a>
 </p>
 
 <br>
 
-<img src="./apps.svg" width="100%" alt="Works in AWS, Figma, Blender, Excel, Photoshop, Xcode, Notion and any other app on your Mac">
-
-<br>
-
 <h3 align="center">Watch it work</h3>
-<p align="center">You ask out loud. Its orange cursor flies to the exact button, the window beside it tells you the next step,<br>and when you say “do it”, Accenno does the steps for you.</p>
+<p align="center">Accenno lives on your Mac, one question away, wherever you are. Its orange cursor flies to the exact spot,<br>the window beside it tells you the next step, and when you say “do it”, it does the steps for you.</p>
 
 <a href="https://accenno.com"><img src="./demo.gif" width="100%" alt="Accenno guiding someone through hosting a website on AWS: it points to search, opens S3 and creates the bucket. Then it fixes a blocky model in Blender."></a>
 
